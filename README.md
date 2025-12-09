@@ -1,6 +1,4 @@
-<h1 align="center"> <img src="https://github.com/kavienanj/kavienanj/blob/master/assets/hello.gif" alt="hello-gif" width="300px" height="100px" ><br >I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a> </h1>
-
-I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for development are Flutter and Next.js. I use wide range of tools for the backend(API/Databases) like Firebase, AWS, NodeJs, Flask, MongoDB, MySQL, etc. I often write automation scripts using Python. My interest lies in **Sports** and **Science**. Actively exploring the new Large Language Models and OpenAI GPT Models right now.
+Hello!, I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a>. I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for development are Flutter and Next.js. I use wide range of tools for the backend(API/Databases) like Firebase, AWS, NodeJs, Flask, MongoDB, MySQL, etc. I often write automation scripts using Python. My interest lies in **Sports** and **Science**. Actively exploring the new Large Language Models and OpenAI GPT Models right now.
 
 - 🛠️ I’m currently working on *Full Stack Application, Automation and AI Projects*
 - 🤝 I’m looking to collaborate on *Open Source Projects*
