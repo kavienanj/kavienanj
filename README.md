@@ -1,9 +1,5 @@
 Hello!, I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a>. I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for development are Flutter and Next.js. I use wide range of tools for the backend(API/Databases) like Firebase, AWS, NodeJs, Flask, MongoDB, MySQL, etc. I often write automation scripts using Python. My interest lies in **Sports** and **Science**. Actively exploring the new Large Language Models and OpenAI GPT Models right now.
 
-- 🛠️ I’m currently working on *Full Stack Application, Automation and AI Projects*
-- 🤝 I’m looking to collaborate on *Open Source Projects*
-- ✉️ Reach me through [![Gmail Badge](https://img.shields.io/badge/-kavienanj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kavienanj@gmail.com)](mailto:kavienanj@gmail.com)
-
 #### Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
 
 #### Find more about me at [kavienanj.github.io](https://kavienanj.github.io)
