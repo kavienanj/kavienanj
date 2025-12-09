@@ -5,8 +5,6 @@ Hello!, I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a>. I build
 #### Find more about me at [kavienanj.github.io](https://kavienanj.github.io)
 <br/>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kavienanj&theme=dark&hide=jupyter%20notebook,css,c,perl,makefile,assembly,shell)
-
 <h2>My Social Links</h2>
 
 | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/kavienanj/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/Instagram.svg" alt="Instagram Logo" width="32">](https://www.instagram.com/kavienanj/) | [<img src="https://github.com/kavienanj/kavienanj/blob/master/assets/X.png" alt="X logo" width="34">](https://x.com/kavienanj) 
