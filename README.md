@@ -1,8 +1,17 @@
-Hello!, I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a>. I build **Full Stack Mobile Apps and Web Apps**. Preferred frameworks for development are Flutter and Next.js. I use wide range of tools for the backend(API/Databases) like Firebase, AWS, NodeJs, Flask, MongoDB, MySQL, etc. I often write automation scripts using Python. My interest lies in **Sports** and **Science**. Actively exploring the new Large Language Models and OpenAI GPT Models right now.
+Hello! I'm <a href="https://www.github.com/kavienanj"> Kavienan J </a>.
 
-#### Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
+I build secure automations, agentic AI applications, and full-stack web & mobile apps.
 
-#### Find more about me at [kavienanj.github.io](https://kavienanj.github.io)
+My current focus is on application security and secure automation pipelines, alongside designing and deploying AI agents and multi-step agentic workflows using the latest LLM frameworks.
+With a strong foundation in full-stack development, I work across Flutter, Next.js, Supabase, LangChain, AWS, Node.js, Postgres, and many more technologies.
+
+What I'm exploring now:
+- Agentic AI systems & LLM-powered workflows
+- Application security & secure-by-design development
+- Secure automation at scale
+
+📌 Find my services at [Upwork.com/kavienanj](https://www.upwork.com/freelancers/~01c54f90bd0c543351?s=1110580755107926016)
+🌐 Learn more at [kavienanj.github.io](https://kavienanj.github.io)
 
 <h2>My Social Links</h2>
 
